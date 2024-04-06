@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\04.06.2024 taskhome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5301C9-F2AE-40C1-AC5D-3CD89BBD3F0C}|04.06.2024 taskhome\\04.06.2024 taskhome.csproj|c:\\users\\user\\desktop\\04.06.2024 taskhome\\04.06.2024 taskhome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5301C9-F2AE-40C1-AC5D-3CD89BBD3F0C}|04.06.2024 taskhome\\04.06.2024 taskhome.csproj|solutionrelative:04.06.2024 taskhome\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5301C9-F2AE-40C1-AC5D-3CD89BBD3F0C}|04.06.2024 taskhome\\04.06.2024 taskhome.csproj|c:\\users\\user\\desktop\\04.06.2024 taskhome\\04.06.2024 taskhome\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5301C9-F2AE-40C1-AC5D-3CD89BBD3F0C}|04.06.2024 taskhome\\04.06.2024 taskhome.csproj|solutionrelative:04.06.2024 taskhome\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5301C9-F2AE-40C1-AC5D-3CD89BBD3F0C}|04.06.2024 taskhome\\04.06.2024 taskhome.csproj|c:\\users\\user\\desktop\\04.06.2024 taskhome\\04.06.2024 taskhome\\models\\bicyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5301C9-F2AE-40C1-AC5D-3CD89BBD3F0C}|04.06.2024 taskhome\\04.06.2024 taskhome.csproj|solutionrelative:04.06.2024 taskhome\\models\\bicyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5301C9-F2AE-40C1-AC5D-3CD89BBD3F0C}|04.06.2024 taskhome\\04.06.2024 taskhome.csproj|c:\\users\\user\\desktop\\04.06.2024 taskhome\\04.06.2024 taskhome\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5301C9-F2AE-40C1-AC5D-3CD89BBD3F0C}|04.06.2024 taskhome\\04.06.2024 taskhome.csproj|solutionrelative:04.06.2024 taskhome\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\04.06.2024 taskhome\\04.06.2024 taskhome\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "04.06.2024 taskhome\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\04.06.2024 taskhome\\04.06.2024 taskhome\\Models\\Vehicle.cs",
+              "RelativeToolTip": "04.06.2024 taskhome\\Models\\Vehicle.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowE8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T01:40:56.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bicyle.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\04.06.2024 taskhome\\04.06.2024 taskhome\\Models\\Bicyle.cs",
+              "RelativeDocumentMoniker": "04.06.2024 taskhome\\Models\\Bicyle.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\04.06.2024 taskhome\\04.06.2024 taskhome\\Models\\Bicyle.cs",
+              "RelativeToolTip": "04.06.2024 taskhome\\Models\\Bicyle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T01:39:41.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\04.06.2024 taskhome\\04.06.2024 taskhome\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "04.06.2024 taskhome\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\04.06.2024 taskhome\\04.06.2024 taskhome\\Models\\Car.cs",
+              "RelativeToolTip": "04.06.2024 taskhome\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T01:39:02.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\04.06.2024 taskhome\\04.06.2024 taskhome\\Program.cs",
+              "RelativeDocumentMoniker": "04.06.2024 taskhome\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\04.06.2024 taskhome\\04.06.2024 taskhome\\Program.cs",
+              "RelativeToolTip": "04.06.2024 taskhome\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T01:37:38.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
